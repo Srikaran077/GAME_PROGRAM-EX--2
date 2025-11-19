@@ -1,8 +1,8 @@
 # GAME_PROGRAM-EX--2
 # Create a player movement using character, collectable, player health and score 
 
-## Name : SANDEEP S
-## Reg No : 212223220092
+## Name : SRIKARAN M
+## Reg No : 212223040206
 
 # Aim
 
